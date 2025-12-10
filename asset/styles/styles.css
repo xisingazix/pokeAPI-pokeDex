@@ -1,0 +1,23 @@
+*{
+    
+}
+.pokeImg{
+    height: 20rem;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    object-fit: cover;
+    background-image: url("/asset/img/placeholder.jpg");
+}
+
+body{
+    object-fit: cover;
+    background-image: url("/asset/img/background.jpg");
+}
+.album{
+    background-color: rgba(255, 255, 255, 0.0)!important;
+}
+.pokeCard{
+    background-color: rgba(255, 255, 255, 0.8)!important;
+}
